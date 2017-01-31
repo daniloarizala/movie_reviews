@@ -49,6 +49,6 @@ test:
 #
 production:
   <<: *default
-  database: movie_reviews_production
-  username: movie_reviews
-  password: <%= ENV['MOVIE_REVIEWS_DATABASE_PASSWORD'] %>
+  database: phogan_moviereview
+  username: phogan_movierev
+  password: yC@X[i;;~T*f
